@@ -4650,7 +4650,7 @@ if (reversed == null) { reversed = false; }
 			this.gotoAndPlay(178);
 			
 			setTimeout(function() {
-		        window.open("https://www.toniebrehenydesigns.com/projects", "_blank");
+		        window.open("https://www.toniebrehenydesigns.com", "_blank");
 		    }, 1400); 
 		}
 	}
